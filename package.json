@@ -1,0 +1,31 @@
+{
+  "name": "acewebdev",
+  "version": "1.0.0",
+  "description": "Web Development with Javascript (MongoDB, Express, React, Node)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express": "node index.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldrego/ace-javascript.git"
+  },
+  "keywords": [
+    "web-development",
+    "nodejs",
+    "express",
+    "mongodb",
+    "react"
+  ],
+  "author": "Mark Edomwande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eldrego/ace-javascript/issues"
+  },
+  "homepage": "https://github.com/eldrego/ace-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
